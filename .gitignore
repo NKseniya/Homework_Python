@@ -215,4 +215,8 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit/secrets.tomlallure_results
+lesson_10/allure_results/
+.idea/
+.vscode/
+allure-report
