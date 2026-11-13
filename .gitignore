@@ -217,3 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.tomlallure_results
 lesson_10/allure_results/
+.idea/
+.vscode/
